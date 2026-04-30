@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://courteous-tournaments-969989.framer.app/$1"
+    }
+  ]
+}
